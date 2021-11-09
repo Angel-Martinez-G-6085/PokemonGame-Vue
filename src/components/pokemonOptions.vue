@@ -34,6 +34,9 @@ li {
     margin-bottom: 10px;
     width: 250px;
 }
+li:hover {
+  color: whitesmoke;
+}
 
 li:hover {
     background-color: rgba(0, 0, 0, 0.05);
