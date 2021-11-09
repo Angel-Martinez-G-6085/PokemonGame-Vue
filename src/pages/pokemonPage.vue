@@ -67,4 +67,7 @@ export default {
 h1,h2 {
   color: whitesmoke;
 }
+button {
+  cursor: pointer;
+}
 </style>
